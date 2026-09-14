@@ -1,3 +1,8 @@
+This repository contains my SQL JOINs exercises as part of my journey to develop practical SQL and data analytics skills.
+
+The exercises focus on understanding how to combine data from multiple tables using relationships between columns.
+
+The goal is to build a strong understanding of SQL JOINs and how they can be used to retrieve meaningful information from relational databases.
 --- creating catalog
 CREATE CATALOG IF NOT EXISTS exercise_n04;
 USE CATALOG exercise_n04;
